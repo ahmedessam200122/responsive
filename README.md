@@ -1,2 +1,2 @@
 ## Screenshots
-![App Screenshot](C:\Users\lenovo\responsive\assets\photo.png)
+![App Screenshot](assets\photo.png)
