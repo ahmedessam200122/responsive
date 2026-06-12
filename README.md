@@ -1,2 +1,14 @@
+# Travel App
+
+Flutter Travel Application
+
 ## Screenshots
-![App Screenshot](assets\photo.png)
+
+<img src="assets/photo.png" width="300"/>
+
+## Features
+
+- Responsive UI
+- Search Destinations
+- Categories
+- Popular Places
